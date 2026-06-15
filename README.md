@@ -30,9 +30,11 @@ A connected body of work (with the [Kanso Lab](https://sites.usc.edu/kansolab/))
 
 ### Current direction
 
-🚧 [`jepa-turbulence`](https://github.com/jingyiliu1900/jepa-turbulence) — probing self-supervised world-model representations against the symmetries and invariants of turbulent flow, and against flow-sensing in fish and fly brains.
+Generative AI for Physics
 
----
+<!--  🚧 [`jepa-turbulence`](https://github.com/jingyiliu1900/jepa-turbulence) — probing self-supervised world-model representations against the symmetries and invariants of turbulent flow, and against flow-sensing in fish and fly brains.
+
+--->
 
 ### Toolbox
 `Python` · `MATLAB` · `JAX` · `PyTorch` · boundary-element / Stokeslet methods · spectral methods · advection–diffusion solvers · PDE-constrained optimization
