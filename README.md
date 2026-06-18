@@ -7,7 +7,7 @@
 **Applied mathematician working at the interface of low-Reynolds-number hydrodynamics, inverse problems, and machine learning.**
 I build mechanistic and data-driven models of how living and artificial systems sense, move through, and represent fluid environments.
 
-🌐 [jingyiliu.net](http://jingyiliu.net) · 🎓 [Google Scholar](https://scholar.google.com/) · 🧪 Kanso Lab, University of Southern California
+🌐 [jingyiliu.net](http://jingyiliu.net) · 🎓 [Google Scholar](https://scholar.google.com/) · 🧪 Janelia, HHMI, University of Southern California
 
 ---
 
