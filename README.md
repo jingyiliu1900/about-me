@@ -15,7 +15,9 @@ I build mechanistic and data-driven models of how living and artificial systems 
 
 - **Biological fluid mechanics at the microscale** — how single-celled ciliates use cilia-driven feeding currents to capture nutrients, and how flow physics shapes their functional design and evolution.
 - **Optimization & inverse problems in viscous flow** — what surface motions maximize nutrient uptake for a given energy budget, across the full range of Péclet number.
-- **AI for the physical world** *(current direction)* — whether self-supervised "world models" learn representations that actually respect the physics of fluid flow, and whether those representations resemble how brains encode flow.
+- **AI for the physical world** *(current direction)*
+  <!-- — whether self-supervised "world models" learn representations that actually respect the physics of fluid flow, and whether those representations resemble how brains encode flow.---> 
+
 
 ### Featured research — the ciliate feeding series
 
